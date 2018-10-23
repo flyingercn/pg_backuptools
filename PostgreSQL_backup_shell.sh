@@ -1,11 +1,10 @@
+#!/bin/bash
+
 # PostgreSQL 数据库整库备份脚本
 #作者：老农民（刘启华）
 #Email: 46715422@qq.com
 
 ######################################################
-
-
-#!/bin/sh
 
 export PGHOME=/usr/local/pgsql/
 export PATH=$PGHOME/bin:$PATH
